@@ -16,4 +16,5 @@ Whenever a user visits your site, the app should scrape stories from a news outl
      * Feel free to add more content to your database (photos, bylines, and so on).
 
 # Screenshot
+coming soon
 # heroku
